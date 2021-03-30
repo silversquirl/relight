@@ -1,9 +1,5 @@
-# Fabric Example Mod
+# Relight
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+A mod to fix light errors.
+Run `/relight x z` to relight one chunk, or `/relight x0 z0 x1 z1` relight an entire rectangle.
+You may need to log out and back in to update your client.
